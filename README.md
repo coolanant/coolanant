@@ -2,7 +2,7 @@
 
 ### Everything's Here is open Source
 
-### Contribute where your passion lies
+### <h3 style="color:red">Contribute</h3> where your passion lies
 
 ### I will merge your contibutions if --
 1. Things are relevant.
