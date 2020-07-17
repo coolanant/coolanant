@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Everything's Here is open Source
+
+## Contribute where your passion lies
+
+### I will merge your contibutions if 
+Things are relevant, and are in the right place, with proper link and documentation.
+
 <!--
 **coolanant/coolanant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
