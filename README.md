@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Everything's Here is open Source
+### Everything's Here is open Source
 
-## Contribute where your passion lies
+### Contribute where your passion lies
 
 ### I will merge your contibutions if 
 Things are relevant, and are in the right place, with proper link and documentation.
