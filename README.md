@@ -1,12 +1,16 @@
 ### Hi there 👋
 
 ### Everything's Here is open Source
+
+```diff
+- Contribute where your passion lies
 ```
-- ### Contribute where your passion lies
-```
+
 ### I will merge your contibutions if --
-1. Things are relevant.
-2. And are in the right place, with proper link and documentation.
+```diff
+@@ 1. Things are relevant. @@
+@@ 2. And are in the right place, with proper link and documentation. @@
+```
 
 <!--
 **coolanant/coolanant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
