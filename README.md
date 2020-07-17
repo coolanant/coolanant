@@ -4,7 +4,7 @@
 
 ### Contribute where your passion lies
 
-### I will merge your contibutions if 
+### I will merge your contibutions if --
 Things are relevant, and are in the right place, with proper link and documentation.
 
 <!--
