@@ -4,7 +4,7 @@
 
 ```diff
 - Contribute where your passion lies 
-- You can contribute via writing code, putting things together or even doing Documnetation of exisiting works.
+- You can contribute via writing code, putting things together or even doing Documentation of exisiting works.
 ```
 
 ### I will merge your contibutions if --
