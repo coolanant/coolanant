@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-### Everything's Here is open Source
-
 ```diff
 - Contribute where your passion lies 
-- You can contribute via writing code, putting things together or even doing Documentation of exisiting works.
 ```
 
-### I will merge your contibutions if --
 ```diff
-@@ 1. Things are relevant. @@
-@@ 2. And are in the right place, with proper link and documentation. @@
+@@ See my take on different topics. I have documented some of my learnings and presented to make some stuff easier and fast to grasp @@
+@@ If you like the work. Kindly star repository ✨, It would mean a lot me. @@
 ```
+If you are interested in some Full Stack projects - Checkout my 2nd Account - [anant016](https://github.com/anant016)
 
 <!--
 **coolanant/coolanant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
