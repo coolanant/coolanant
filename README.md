@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```diff
-- Contribute where your passion lies 
+- Find Notes on Diffrent topics
 ```
 
 ```diff
